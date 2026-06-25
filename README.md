@@ -17,7 +17,8 @@ This is my personal portfolio website created using HTML and CSS. It showcases m
 - JavaScript
 
 ## Project Purpose
-This project was created to practice front-end web development and to build my personal portfolio for showcasing my work and skills.
+## Project Purpose
+This project was developed as part of my CodSoft internship task. The main purpose of this project is to create a personal portfolio website that showcases my profile, technical skills, projects, and contact information in a professional and organized manner. It also reflects my learning and practical experience in front-end web development using HTML and CSS.
 
 ## Author
 **Rupal Yadav**  
