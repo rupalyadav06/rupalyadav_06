@@ -14,7 +14,7 @@ This is my personal portfolio website created using HTML and CSS. It showcases m
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript (if added)
+- JavaScript
 
 ## Project Purpose
 This project was created to practice front-end web development and to build my personal portfolio for showcasing my work and skills.
